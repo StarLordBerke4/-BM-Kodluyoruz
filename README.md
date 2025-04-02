@@ -5,7 +5,7 @@
 
 <a href=""><img align="center" src="https://github.com/StarLordBerke4/-BM-Kodluyoruz/blob/main/%C4%B0mages/IBM%20ile%20Kodluyoruz_%20CybreStart%20Web-%20(2).png" alt="İBM" width="1100"/></a>
 
-<p>IBM ve Kodluyoruz iş birliğiyle sunulan "CyberStart" programı, siber güvenlik alanında katılımcılara kapsamlı bir eğitim sunmayı hedeflemektedir. Bu programda Python programlama dili kullanılarak, siber güvenlik becerileri geliştirilmektedir.</p>
+<p>IBM ve Kodluyoruz iş birliğiyle sunulan "CyberStart" programı, siber güvenlik alanında katılımcılara kapsamlı bir eğitim sunmayı hedeflemektedir. Bu programda Python programlama dili kullanılarak, siber güvenlik becerileri geliştirilmektedir. </p>
 
 ### Programın Detayları:
 - <b>Hedef Kitle:</b> Siber güvenliğe ilgi duyan, yeni başlayan veya bu alanda kariyer yapmak isteyen herkes için uygundur.
