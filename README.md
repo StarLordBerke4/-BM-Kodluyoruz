@@ -22,7 +22,7 @@
 
 ### Sertifikam:
 
-- Sertifika Adı: Grafik Ve Animasyon Tabanlı Web Sayfası Hazırlama
-- Sertifika No: 11978420240087385518
+- Sertifika Adı: IBM ile Kodluyoruz: CyberStart
+- Sertifika No: 43375290771679
 - Sertifika URL: https://drive.google.com/file/d/1VCLWZbTF_cdN8otk44O4xlWyp4tKnJrZ/view?usp=drive_link
 - Linkedin Profil URL:https://www.linkedin.com/in/starlordberke/
