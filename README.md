@@ -25,7 +25,7 @@
 <p>Kendi düşünceme gelirsek, siber güvenlik, çağımızın en önemli alanlarından biri ve bu programın sunduğu olanaklar gerçekten değerlidir. Teknolojinin hızla gelişmesiyle birlikte, siber tehditlerin artması kaçınılmaz. Bu nedenle, bu alanda uzmanlaşmak, hem kariyerim için hem de topluma katkı sağlamak açısından büyük bir fırsat olarak değerlendiriyorum. Ayrıca, programın mentorluk ve sertifika gibi ek avantajları, katılımcıların sektöre daha donanımlı bir şekilde adım atmalarını sağlıyor. Böylece, "CyberStart" gibi eğitim programları, siber güvenlik alanında yetkin bireyler yetiştirmek için kritik bir rol oynuyor.</p>
 
 ### Sertifikam:
-<a href=""><img align="center" src="https://github.com/StarLordBerke4/-BM-Kodluyoruz/blob/main/%C4%B0mages/Kodluyoruz-ile-IBM_-CyberStart_43375290771679.jpg" alt="Sertifika" height="720" width="1100"/></a>
+<a href=""><img align="center" src="https://github.com/StarLordBerke4/-BM-Kodluyoruz/blob/main/%C4%B0mages/Kodluyoruz-ile-IBM_-CyberStart_43375290771679.jpg" alt="Sertifika" width="1100"/></a>
 
 - <b>Sertifika Adı:</b> IBM ile Kodluyoruz: CyberStart
 - <b>Sertifika No:</b> 43375290771679
