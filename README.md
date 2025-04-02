@@ -8,14 +8,14 @@
 <p>IBM ve Kodluyoruz iş birliğiyle sunulan "CyberStart" programı, siber güvenlik alanında katılımcılara kapsamlı bir eğitim sunmayı hedeflemektedir. Bu programda Python programlama dili kullanılarak, siber güvenlik becerileri geliştirilmektedir.</p>
 
 ### Programın Detayları:
-- Hedef Kitle: Siber güvenliğe ilgi duyan, yeni başlayan veya bu alanda kariyer yapmak isteyen herkes için uygundur.
-- Python Kullanımı: Program boyunca Python dili üzerinden güvenlik araçları geliştirme, script yazma ve otomasyon gibi konular işlenir.
-- Uygulamalı Eğitim: Katılımcılar, sanal laboratuvar ortamlarında pratik yaparak, öğrendiklerini gerçek zamanlı senaryolarla pekiştirme fırsatı bulurlar.
-- Kapsamlı Müfredat: Ağ güvenliği, veri analizi, şifreleme, web uygulama güvenliği gibi kritik konular detaylı bir şekilde ele alınır.
-- Oyunlaştırma: Eğlenceli bir öğrenme deneyimi sunmak amacıyla, katılımcılar çeşitli oyun ve yarışmalarla motive edilir.
-- Sertifika İmkanı: Program sonunda başarılı olan katılımcılar, siber güvenlik alanında yetkinliklerini kanıtlayan sertifikaya sahip olurlar.
-- Mentorluk Desteği: Alanında uzman eğitmenler ve mentorlar, katılımcılara rehberlik ederek öğrenme süreçlerini destekler.
-- Sektör Bağlantıları: Program, iş bulma fırsatları ve sektörle bağlantı kurma imkânı sağlar, böylece katılımcılar kariyerlerini yönlendirme şansı bulur.
+- <b>Hedef Kitle:</b> Siber güvenliğe ilgi duyan, yeni başlayan veya bu alanda kariyer yapmak isteyen herkes için uygundur.
+- <b>Python Kullanımı:</b> Program boyunca Python dili üzerinden güvenlik araçları geliştirme, script yazma ve otomasyon gibi konular işlenir.
+- <b>Uygulamalı Eğitim:</b> Katılımcılar, sanal laboratuvar ortamlarında pratik yaparak, öğrendiklerini gerçek zamanlı senaryolarla pekiştirme fırsatı bulurlar.
+- <b>Kapsamlı Müfredat:</b> Ağ güvenliği, veri analizi, şifreleme, web uygulama güvenliği gibi kritik konular detaylı bir şekilde ele alınır.
+- <b>Oyunlaştırma:</b> Eğlenceli bir öğrenme deneyimi sunmak amacıyla, katılımcılar çeşitli oyun ve yarışmalarla motive edilir.
+- <b>Sertifika İmkanı:</b> Program sonunda başarılı olan katılımcılar, siber güvenlik alanında yetkinliklerini kanıtlayan sertifikaya sahip olurlar.
+- <b>Mentorluk Desteği:</b> Alanında uzman eğitmenler ve mentorlar, katılımcılara rehberlik ederek öğrenme süreçlerini destekler.
+- <b>Sektör Bağlantıları:</b> Program, iş bulma fırsatları ve sektörle bağlantı kurma imkânı sağlar, böylece katılımcılar kariyerlerini yönlendirme şansı bulur.
 
 ### Program ile ilgili Düşüncelerim:
 <p>IBM ve Kodluyoruz'un "CyberStart" programı, siber güvenlik alanında kendini geliştirmek isteyenler için mükemmel bir fırsat sunuyor. Python gibi popüler bir dilin kullanılması, katılımcıların hem yazılım hem de güvenlik bilgi ve becerilerini artırmalarına olanak tanıyor. Bu tür programların uygulamalı eğitim ağırlıklı olması, teorik bilgilerin yanı sıra gerçek dünya senaryolarında pratik yapma imkanı sağlıyor. Oyunlaştırma yöntemi ile öğrenmenin teşvik edilmesi, siber güvenliğin karmaşık yapısını daha erişilebilir hâle getiriyor ve bu da programın çekiciliğini artırıyor.</p>
@@ -27,9 +27,9 @@
 ### Sertifikam:
 <a href=""><img align="center" src="https://github.com/StarLordBerke4/-BM-Kodluyoruz/blob/main/%C4%B0mages/Kodluyoruz-ile-IBM_-CyberStart_43375290771679.jpg" alt="Sertifika" height="720" width="1100"/></a>
 
-- Sertifika Adı: IBM ile Kodluyoruz: CyberStart
-- Sertifika No: 43375290771679
-- Sertifika URL: https://drive.google.com/file/d/1VCLWZbTF_cdN8otk44O4xlWyp4tKnJrZ/view?usp=drive_link
-- Linkedin Profil URL:https://www.linkedin.com/in/starlordberke/
+- <b>Sertifika Adı:</b> IBM ile Kodluyoruz: CyberStart
+- <b>Sertifika No:</b> 43375290771679
+- <b>Sertifika URL:</b> https://drive.google.com/file/d/1VCLWZbTF_cdN8otk44O4xlWyp4tKnJrZ/view?usp=drive_link
+- <b>Linkedin Profil URL:</b> https://www.linkedin.com/in/starlordberke/
 
 <a href=""><img align="center" src="https://github.com/StarLordBerke4/-BM-Kodluyoruz/blob/main/%C4%B0mages/kodluyoruz_cover.jpg" alt="İBM" width="1100"/></a>
