@@ -20,7 +20,7 @@
 ### Program ile ilgili Düşüncelerim:
 <p>IBM ve Kodluyoruz'un "CyberStart" programı, siber güvenlik alanında kendini geliştirmek isteyenler için mükemmel bir fırsat sunuyor. Python gibi popüler bir dilin kullanılması, katılımcıların hem yazılım hem de güvenlik bilgi ve becerilerini artırmalarına olanak tanıyor. Bu tür programların uygulamalı eğitim ağırlıklı olması, teorik bilgilerin yanı sıra gerçek dünya senaryolarında pratik yapma imkanı sağlıyor. Oyunlaştırma yöntemi ile öğrenmenin teşvik edilmesi, siber güvenliğin karmaşık yapısını daha erişilebilir hâle getiriyor ve bu da programın çekiciliğini artırıyor.</p>
 
-<a href=""><img align="center" src="https://github.com/StarLordBerke4/-BM-Kodluyoruz/blob/main/%C4%B0mages/Python-01.jpg" alt="Python" height="720" width="1100"/></a>
+<a href=""><img align="center" src="https://github.com/StarLordBerke4/-BM-Kodluyoruz/blob/main/%C4%B0mages/Python-01.jpg" alt="Python" width="1100"/></a>
 
 <p>Kendi düşünceme gelirsek, siber güvenlik, çağımızın en önemli alanlarından biri ve bu programın sunduğu olanaklar gerçekten değerlidir. Teknolojinin hızla gelişmesiyle birlikte, siber tehditlerin artması kaçınılmaz. Bu nedenle, bu alanda uzmanlaşmak, hem kariyerim için hem de topluma katkı sağlamak açısından büyük bir fırsat olarak değerlendiriyorum. Ayrıca, programın mentorluk ve sertifika gibi ek avantajları, katılımcıların sektöre daha donanımlı bir şekilde adım atmalarını sağlıyor. Böylece, "CyberStart" gibi eğitim programları, siber güvenlik alanında yetkin bireyler yetiştirmek için kritik bir rol oynuyor.</p>
 
